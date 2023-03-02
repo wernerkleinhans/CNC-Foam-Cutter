@@ -1,7 +1,13 @@
 # CNC Foam Cutter
 
-## Software and Firmware
+## Offer View
 This repository contains the firmware and software necessary for operating an Arduino Mega 2560 board with the GRBL-HotWire-Mega-5X-Application-V5.12.
+
+
+
+
+
+## Hardwere
 
 ### 3D Parts and required hardware (for one side)
 
@@ -63,9 +69,10 @@ This repository contains the firmware and software necessary for operating an Ar
 | Limit Switches | Any                       | 4      |
 | Power Supply   | 12-35V DC                 | 1      |
 | Nichrome Wire  | 28 gauge                  | 1      |
+##
 
 
-
+## Firmware and Software
 
 ### To install the firmware for the Mega 2560 board, follow these steps:
 
