@@ -6,11 +6,11 @@ This repository also contains the .stl files and the hardware list to build this
 
 ## Table of Contents
 #### [Hardwere](https://github.com/wernerkleinhans/CNC-Foam-Cutter#hardwere-1)
-#### [3D Parts and required hardware]
-#### [Total Hardwere]
-#### [Rails and Rods]
-#### [Electronics]
-#### [Firmware and Software]
+#### [3D Parts and required hardware](https://github.com/wernerkleinhans/CNC-Foam-Cutter#3d-parts-and-required-hardware-for-one-side)
+#### [Total Hardwere](https://github.com/wernerkleinhans/CNC-Foam-Cutter#total-hardwere-for-both-sides)
+#### [Rails and Rods](https://github.com/wernerkleinhans/CNC-Foam-Cutter#total-rails-and-rods-for-both-sides)
+#### [Electronics](https://github.com/wernerkleinhans/CNC-Foam-Cutter#all-electronics)
+#### [Firmware and Software](https://github.com/wernerkleinhans/CNC-Foam-Cutter#firmware-and-software-1)
 ##
 
 ## Hardwere
