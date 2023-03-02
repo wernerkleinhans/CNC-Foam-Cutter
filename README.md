@@ -5,7 +5,6 @@ This repository contains the firmware and software necessary for operating an Ar
 
 ### 3D Parts and required hardware (for one side)
 
-
 | 3D Parts | Type               | Length | Amount | Nyloc Nuts |
 |----------|--------------------|--------|--------|------------|
 | Rod End 1| m4 countersunk bolt| 75mm   | 4      | 4          |
@@ -20,6 +19,28 @@ This repository contains the firmware and software necessary for operating an Ar
 | Y motor mount | m3 allen cap bolt | 10mm| 4      |            |
 |          | m4 allen cap bolt  | 20mm   | 4      | 4          |
 
+### Total Hardwere (for both sides)
+#### Bolts
+
+| Type                | Length | Amount |
+|---------------------|--------|--------|
+| m6 allen cap bolt   | 50mm   | 12     |
+| m4 countersunk bolt | 75mm   | 16     |
+| m4 allen cap bolt   | 30mm   | 4      |
+| m4 allen cap bolt   | 25mm   | 10     |
+| m4 allen cap bolt   | 20mm   | 12     |
+| m3 allen cap bolt   | 10mm   | 16     |
+| m3 allen cap bolt   | 40mm   | 8      |
+
+#### Nuts
+
+| Type          | Amount |
+|---------------|--------|
+| m6 nyloc nuts | 12     |
+| m4 nyloc nuts | 42     |
+| m3 nyloc nuts | 16     |
+
+### Total Rails and Rods (for both sides)
 
 
 
