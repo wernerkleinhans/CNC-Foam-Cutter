@@ -5,7 +5,7 @@ This repository contains the firmware and software necessary for operating an Ar
 
 ### To install the firmware for the Mega 2560 board, follow these steps:
 
-##### Download the zip file from this repository to your local drive.
+##### Download and extract the zip file from this repository to your local drive.
 
 1. Open the Arduino IDE.
 2. Press "Ctrl+O" to open a sketch file.
