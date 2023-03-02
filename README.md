@@ -42,6 +42,28 @@ This repository contains the firmware and software necessary for operating an Ar
 
 ### Total Rails and Rods (for both sides)
 
+| Type | Specifications | Amount |              
+| --- | --- | --- |
+| m10 threaded rod | 1000mm | 2 |
+| m10 threaded rod | 500mm | 2 |
+| 12mm en8 rod | 1000mm | 4 |
+| 12mm en8 rod | 500mm | 4 |
+| Bearing | 6000 ZZC | 4 |
+| Flex Coupler | 5mm to 10mm | 4 |
+| Driver Nuts | m10 nuts | 8 |
+
+### All Electronics
+
+| Type | Specifications            | Amount |
+|------|---------------------------|--------|
+| MotherBoard    | Arduino Mega 2560         | 1      |
+| CNC Shield     | RAMPS 1.4 ARDUINO SHIELD  | 1      |
+| STEPPER MOTOR  | nema 17                   | 4      |
+| STEPPER MOTOR DRIVERS | A4988 DRIVER     | 4      |
+| Limit Switches | Any                       | 4      |
+| Power Supply   | 12-35V DC                 | 1      |
+| Nichrome Wire  | 28 gauge                  | 1      |
+
 
 
 
