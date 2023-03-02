@@ -9,7 +9,7 @@ This repository contains the firmware and software necessary for operating an Ar
 
 1. Open the Arduino IDE.
 2. Press "Ctrl+O" to open a sketch file.
-3. Navigate to the grbl-Mega-5X-firmware-1.02/grbl/examples/grblUpload/ folder in the downloaded zip file.
+3. Navigate to the /grbl-Mega-5X-firmware-1.02/grbl/examples/grblUpload/ folder in the extracted zip file.
 4. Open the grblUpload.ino file.
 5. Connect your Mega 2560 board to your computer using a USB cable.
 6. Select "Arduino Mega 2560" from the "Tools > Board" menu.
@@ -20,11 +20,11 @@ This repository contains the firmware and software necessary for operating an Ar
 
 1. Install "Win 10 32bit" on a virtual machine.
 2. Change the Windows display settings as necessary.
-3. Navigate to the GRBL-HotWire-Mega-5X-Application-V5.12 folder in the downloaded zip file.
+3. Navigate to the /GRBL-HotWire-Mega-5X-Application-V5.12 folder/ in the extracted zip file.
 4. Double-click on the setup.exe file to install the application.
 
 #### Usage
-Once the firmware and software are installed, you can use the HotWire Application to control the Mega 2560 board and operate a hot wire foam cutter. 
+Once the firmware and software are installed, you can use the HotWire Application to control the Mega 2560 board, operate the hot wire foam cutter and send g-code. 
 
 #### Credits
 This repository is based on the GRBL firmware and the HotWire Application developed by the community. Special thanks to the developers and contributors who made this possible.
