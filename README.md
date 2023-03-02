@@ -24,9 +24,9 @@ This repository also contains the .stl files and the hardware list to build this
 | X motor  | M3 allen cap bolt  | 40mm   | 4      | 4          |
 |          | M3 allen cap bolt  | 10mm   | 4      |            |
 | Y top    | M4 allen cap bolt  | 30mm   | 2      | 2          |
-| X slid botom | M6 allen cap bolt | 50mm | 6      | 6          |
-| X slid   | M4 allen cap bolt  | 25mm   | 4      | 4          |
-| Y slid   | M4 allen cap bolt  | 25mm   | 1      | 1          |
+| X slide botom | M6 allen cap bolt | 50mm | 6      | 6          |
+| X slide   | M4 allen cap bolt  | 25mm   | 4      | 4          |
+| Y slide   | M4 allen cap bolt  | 25mm   | 1      | 1          |
 |          | M4 allen cap bolt  | 20mm   | 2      | 2          |
 | Y motor mount | M3 allen cap bolt | 10mm| 4      |            |
 |          | M4 allen cap bolt  | 20mm   | 4      | 4          |
@@ -58,8 +58,8 @@ This repository also contains the .stl files and the hardware list to build this
 | --- | --- | --- |
 | M10 threaded rod | 1000mm | 2 |
 | M10 threaded rod | 500mm | 2 |
-| 12mm en8 rod | 1000mm | 4 |
-| 12mm en8 rod | 500mm | 4 |
+| 12mm EN8 rod | 1000mm | 4 |
+| 12mm EN8 rod | 500mm | 4 |
 | Bearing | 6000 ZZC | 4 |
 | Flex Coupler | 5mm to 10mm | 4 |
 | Driver Nuts | M10 nuts | 8 |
