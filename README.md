@@ -104,4 +104,4 @@ This repository also contains the .stl files and the hardware list to build this
 Once the firmware and software are installed, you can use the HotWire Application to control the Mega 2560 board, to operate the hot wire foam cutter and send g-code. 
 
 #### Credits
-This repository is based on the [GRBL](https://github.com/grbl/grbl) firmware and the [HotWire Application](https://rckeith.co.uk/download/grbl-hotwire-mega-5x-application-v5-1/) developed by the community. Special thanks to the developers and contributors who made this possible.
+This repository is based on the [GRBL](https://github.com/grbl/grbl) firmware and the [HotWire Application](https://rckeith.co.uk/download/grbl-hotwire-mega-5x-application-v5-1/) developed by the community. I got the original .stl files from [Michael Rechtin](https://www.youtube.com/watch?v=cQN6KdKg7DI&t=1s) and modified it to fit my needs. Special thanks to the developers and contributors who made this possible.
