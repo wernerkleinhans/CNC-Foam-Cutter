@@ -5,12 +5,12 @@ This repository contains the firmware and software necessary for operating an Ar
 This repository also contains the .stl files and the hardware list to build this CNC machine. 
 
 ## Table of Contents
-#### Hardwere
-#### 3D Parts and required hardware
-#### Total Hardwere
-#### Rails and Rods
-#### Electronics
-#### Firmware and Software
+#### [Hardwere](https://github.com/wernerkleinhans/CNC-Foam-Cutter#hardwere-1)
+#### [3D Parts and required hardware]
+#### [Total Hardwere]
+#### [Rails and Rods]
+#### [Electronics]
+#### [Firmware and Software]
 ##
 
 ## Hardwere
