@@ -1,7 +1,7 @@
 # CNC Foam Cutter
 
 ## Offer View
-This repository contains the firmware and software necessary for operating an Arduino Mega 2560 board with the GRBL-HotWire-Mega-5X-Application-V5.12.
+This repository contains the firmware and software necessary for operating an Arduino Mega 2560 board with the GRBL-HotWire-Mega-5X-Application-V5.12. This repository also contains the .stl files and the hardware list to build this CNC machine 
 
 
 
