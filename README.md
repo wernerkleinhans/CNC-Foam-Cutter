@@ -22,8 +22,8 @@ This repository contains the firmware and software necessary for operating an Ar
 3. Navigate to the GRBL-HotWire-Mega-5X-Application-V5.12 folder in the downloaded zip file.
 4. Double-click on the setup.exe file to install the application.
 
-Usage
-Once the firmware and software are installed, you can use the HotWire Application to control the Mega 2560 board and operate a hot wire foam cutter. Detailed instructions for using the application can be found in the included user manual.
+#### Usage
+Once the firmware and software are installed, you can use the HotWire Application to control the Mega 2560 board and operate a hot wire foam cutter. 
 
 #### Credits
 This repository is based on the GRBL firmware and the HotWire Application developed by the community. Special thanks to the developers and contributors who made this possible.
