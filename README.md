@@ -3,6 +3,17 @@
 ## Software and Firmware
 This repository contains the firmware and software necessary for operating an Arduino Mega 2560 board with the GRBL-HotWire-Mega-5X-Application-V5.12.
 
+### 3D Parts and required hardware (for one side)
+
+
+
+
+
+
+
+
+
+
 ### To install the firmware for the Mega 2560 board, follow these steps:
 
 ##### Download and extract the zip file from this repository to your local drive.
