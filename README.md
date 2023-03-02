@@ -5,15 +5,16 @@ This repository contains the firmware and software necessary for operating an Ar
 
 ### To install the firmware for the Mega 2560 board, follow these steps:
 
-1. Download the zip file from this repository to your local drive.
-2. Open the Arduino IDE.
-3. Press "Ctrl+O" to open a sketch file.
-4. Navigate to the grbl-Mega-5X-firmware-1.02/grbl/examples/grblUpload/ folder in the downloaded zip file.
-5. Open the grblUpload.ino file.
-6. Connect your Mega 2560 board to your computer using a USB cable.
-7. Select "Arduino Mega 2560" from the "Tools > Board" menu.
-8. Select the appropriate serial port from the "Tools > Port" menu.
-9. Upload the firmware by clicking the "Upload" button or pressing "Ctrl+U".
+##### Download the zip file from this repository to your local drive.
+
+1. Open the Arduino IDE.
+2. Press "Ctrl+O" to open a sketch file.
+3. Navigate to the grbl-Mega-5X-firmware-1.02/grbl/examples/grblUpload/ folder in the downloaded zip file.
+4. Open the grblUpload.ino file.
+5. Connect your Mega 2560 board to your computer using a USB cable.
+6. Select "Arduino Mega 2560" from the "Tools > Board" menu.
+7. Select the appropriate serial port from the "Tools > Port" menu.
+8. Upload the firmware by clicking the "Upload" button or pressing "Ctrl+U".
 
 ### To install the HotWire Application on Windows, follow these steps:
 
